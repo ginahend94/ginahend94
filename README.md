@@ -1,4 +1,4 @@
-Hi! I'm Gina. Thanks for stopping by! I'm currently learning web development, although I've been fiddling around with code since I was 10 years old.
+Hi! I'm Gina. Thanks for stopping by! I'm currently learning full-stack web development, although I've been fiddling around with code since I was 10 years old.
 Fun facts: Aside from computers, I'm also a singer-songwriter. I have two very tiny, very loud dogs.
 
 
